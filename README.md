@@ -1,7 +1,6 @@
 # Windows Color Mode Switcher
 
-This project contains PowerShell scripts to switch between Dark Mode and Light Mode for Windows and app color settings. The scripts modify registry settings and refresh the system without needing to restart File Explorer.
-
+This project contains PowerShell scripts to switch between Dark Mode and Light Mode for Windows and app color settings.
 ## Contents
 
 - `dark.ps1`: Switches Windows and apps to Dark Mode.
